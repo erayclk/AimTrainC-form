@@ -1,6 +1,6 @@
 # Aim Training Uygulaması
 
-![Aim Training Uygulama Ekran Görüntüsü](images1.png)
+![Aim Training Uygulama Ekran Görüntüsü](image1.png)
 
 Bu uygulama, fare kontrol becerilerinizi geliştirmenize yardımcı olan bir aim training (nişan alma) oyunudur.
 
