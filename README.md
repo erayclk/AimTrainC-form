@@ -1,5 +1,7 @@
 # Aim Training Uygulaması
 
+![Aim Training Uygulama Ekran Görüntüsü](images1.png)
+
 Bu uygulama, fare kontrol becerilerinizi geliştirmenize yardımcı olan bir aim training (nişan alma) oyunudur.
 
 ## Özellikler
@@ -57,6 +59,3 @@ Bu uygulama, fare kontrol becerilerinizi geliştirmenize yardımcı olan bir aim
 
 Bu proje C# ve Windows Forms kullanılarak geliştirilmiştir.
 
-## Lisans
-
-Bu proje MIT lisansı altında dağıtılmaktadır. 
